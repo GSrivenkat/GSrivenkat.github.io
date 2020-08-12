@@ -1066,7 +1066,7 @@ background: rgba(0, 0, 0, 0.8);
 
 /* REPONSIVE */
 
-@media (max-width: 991px) {
+@media (max-width: 50px) {
 
 	nav ul {
   		margin-left: 25px;
