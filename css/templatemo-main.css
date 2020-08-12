@@ -889,15 +889,15 @@ background: rgba(0, 0, 0, 0.8);
 		font-size: 24px;
 		font-weight: bold;
         padding-bottom: 20px;
-		color: #ffffff;
+		color: #D43F52;
 		margin-top: 25%;
     }
 
 
 .fifth-content p {
 	text-align: left;
-	color: #D43F52;
-	font-size: 14px;	
+	color: #ffffff;
+	font-size: 15px;	
 	font-weight: 300;
 	letter-spacing: 2px;
 	line-height: 26px;
@@ -911,7 +911,7 @@ background: rgba(0, 0, 0, 0.8);
 	font-size: 20px;
 		font-weight: bold;
         padding-bottom: 20px;
-		color: #ffffff;
+		color: #D43F52;
 		margin-top: 5%;
 	margin-left:50px;	
 }
