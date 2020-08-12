@@ -1078,14 +1078,14 @@ background: rgba(0, 0, 0, 0.8);
 	}
 
 	.first-content .author-image img {
-		max-width: 195px;
+		max-width: 30px;
 		float: none;
 		margin-right: 0px;
 		margin-bottom: 30px;
 	}
 
 	.third-content .first-section {
-		border-bottom: 1px solid rgba(250,250,250,0.3);
+		border-bottom: 1px solid rgba(250,250,250,0);
 		padding-bottom: 45px;
 		margin-bottom: 45px;
 	}
